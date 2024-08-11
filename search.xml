@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>my sec post</title>
+      <link href="/2024/08/11/my-sec-post/"/>
+      <url>/2024/08/11/my-sec-post/</url>
+      
+        <content type="html"><![CDATA[<p>今天天气晴</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>“孤立事件”谬误</title>
+      <link href="/2024/08/11/single-thing-wrong/"/>
+      <url>/2024/08/11/single-thing-wrong/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>《早起的奇迹》</p></blockquote><p>事实上，导致人们平庸还有一个重要原因：“孤立事件”谬误。虽然这种现象极为普遍，但不易被人们发觉。我们总是想当然地认为自己每一次的选择和行动只会影响眼前的事情或环境。例如，你或许认为减少一次锻炼，拖延一个项目，或者吃一次快餐，并没什么大不了，因为明天就能“弥补”；你错误地认为做一件“错事”只会影响当下的关系，只要下次做好一点就行了。这是世界上最大的自我欺骗。</p><p>我们必须意识到：当下的选择、行动，乃至想法，都会对未来产生不可逆转的影响。因为你的每一个想法、每一次选择，以及每一项行动，都决定你将要成为什么样的人。就如同著名商业教练 T.哈维·艾克（T. Harv Eker）在畅销书《有钱人想的和你不一样》（Secrets of the Millionaire Mind）中所言：“你对一件事的做法，决定着你对所有事的做法。”</p><p>一方面，当你选择避重就轻，就会让自己变成害怕困难的软脚虾；另一方面，当你选择迎难而上、遵守承诺，尤其是当你不喜欢一件事却仍然勇往直前时，就是在培养自己非凡的自律力，而它通常是获得成功的必要条件。就如同我的好朋友彼得·沃奇常告诫客户那样：“自律决定生活状态。”</p><p>例如，当闹钟响起，我们按下按钮时，大多数人错误地以为这个举动只会影响当天早晨。事实上，这种行为将会影响我们的潜意识，告诉大脑不执行计划、不完成任务都没有关系。这个问题我们将在第 4 章中详细阐述。</p><p>我们必须终止“孤立事件”谬误，目光放得更长远一些，同时也必须认识到，你做的每一件事都对自己会变成什么样的人产生影响。当你眼光放长远时，会更加认真地对待闹钟。所以，当你在早上躺在床上打算按下闹钟时，开始这样想：等等，我并不想成为一个不能早起、没有自律性的人；现在我应该马上起床，因为我下定决心要____（早起、追求目标、创造自己梦想的生活等）。</p><p>请记住，你将成为什么样的人远比现在要做的事情更重要，但你将成为什么样的人依然取决于目前的行动。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/08/11/hello-world/"/>
+      <url>/2023/08/11/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 初始 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
